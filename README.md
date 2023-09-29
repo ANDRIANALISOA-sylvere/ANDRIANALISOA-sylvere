@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.Js and Symfony**
 
-- 💬 Ask me about **Vue.js & symfony & php**
+- 💬 Ask me about **Vue.js & symfony & php & ExpressJS**
 
 - ⚡ Fun fact **Dev web**
 
