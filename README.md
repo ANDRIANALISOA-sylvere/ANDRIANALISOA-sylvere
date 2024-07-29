@@ -35,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrianalisoa-sylvere&show_icons=true&locale=en&layout=compact" alt="andrianalisoa-sylvere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrianalisoa-sylvere&show_icons=true&locale=en" alt="andrianalisoa-sylvere" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrianalisoa-sylvere&" alt="andrianalisoa-sylvere" /></p>
