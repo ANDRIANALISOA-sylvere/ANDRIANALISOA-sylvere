@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MediMeet](https://github.com/ANDRIANALISOA-sylvere/MediMeet)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 Some of my projects are available at [https://josephin-sylvere.vercel.app](https://josephin-sylvere.vercel.app)
 
