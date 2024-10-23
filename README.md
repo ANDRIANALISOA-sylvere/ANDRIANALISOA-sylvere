@@ -27,4 +27,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,ts,php,nodejs,express,laravel,nestjs,nextjs,mysql,mongodb,postgres,git,vscode,vite"></a>
+<p align="left"><a href="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,ts,php,nodejs,express,laravel,nestjs,nextjs,mysql,mongodb,postgres,git,vscode,vite"></a></p>
