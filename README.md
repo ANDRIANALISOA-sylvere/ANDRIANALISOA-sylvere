@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/sylverejosephin" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="linkedin" /></a>
 <a href="https://www.linkedin.com/in/josephin-sylvere/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-<a href="https://www.facebook.com/profile.php?id=100094686108117" target="blank"><img src="https://skillicons.dev/icons?i=facebook" alt="linkedin" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
