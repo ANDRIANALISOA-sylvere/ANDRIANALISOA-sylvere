@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://josephin-sylvere.vercel.app/CV.pdf](https://josephin-sylvere.vercel.app/CV.pdf)
 
   ## Visitor Count
-- Total Visits: 0
+![Visitor Count](https://komarev.com/ghpvc/?username=ANDRIANALISOA-sylvere&color=blue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
