@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/sylverejosephin" target="blank"><img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="linkedin" /></a>
 <a href="https://www.linkedin.com/in/josephin-sylvere/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="linkedin" /></a>
-<a href="mailto:josephinsylvere@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
+<a href="mailto:josephinsylvere@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="gmail" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
