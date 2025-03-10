@@ -10,7 +10,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://josephin-sylvere.vercel.app](https://josephin-sylvere.vercel.app)
 
-- 💬 Ask me about **javascript, typescript, react, react native, nodejs, expressjs, nestjs, nextjs, laravel, php**
+- 💬 Ask me about **javascript, typescript,nodejs, expressjs, nestjs**
 
 - 📫 How to reach me **josephinsylvere@gmail.com**
 
