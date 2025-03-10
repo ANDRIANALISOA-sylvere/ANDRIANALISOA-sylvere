@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [TaskManager-API](https://github.com/ANDRIANALISOA-sylvere/TaskManager-API)
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **NestJs**
 
 - 👨‍💻 Some of my projects are available at [https://josephin-sylvere.vercel.app](https://josephin-sylvere.vercel.app)
 
