@@ -25,5 +25,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mysql,mongodb,postgres,prisma,docker,graphql&theme=light" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mysql,mongodb,postgres,prisma,docker,graphql,blender&theme=light" alt="Skills" />
 </p>
