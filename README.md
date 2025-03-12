@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sylverejosephin" target="blank"><img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="linkedin" /></a>
-<a href="https://www.linkedin.com/in/josephin-sylvere/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="linkedin" /></a>
-<a href="mailto:josephinsylvere@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="gmail" /></a>
+<a href="https://twitter.com/sylverejosephin" target="blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/josephin-sylvere/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin" /></a>
+<a href="mailto:josephinsylvere@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="gmail" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
