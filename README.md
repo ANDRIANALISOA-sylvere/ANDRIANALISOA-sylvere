@@ -4,15 +4,19 @@
 
 <h3 align="left">👨‍💻 About me</h3>
 
-<p> I'm a backend developer with strong interest in building secure, scalable, and high-performance web applications.<br/> Currently focused on <strong>NestJS</strong>, GraphQL <br/> I enjoy turning business problems into reliable technical solutions. </p>
+<p>I'm a backend developer passionate about crafting secure, scalable, and high-performance web applications.
+
+Currently specializing in <strong>NestJS</strong> and <strong>GraphQL</strong>,
+
+I thrive on transforming complex business challenges into robust technical solutions.</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mysql,mongodb,postgres,prisma,docker,graphql,blender&theme=dark" alt="Skills" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/sylverejosephin" target="blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="linkedin" /></a>
 <a href="https://www.linkedin.com/in/josephin-sylvere/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin" /></a>
 <a href="mailto:josephinsylvere@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="gmail" /></a>
