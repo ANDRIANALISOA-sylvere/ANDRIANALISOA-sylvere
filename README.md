@@ -1,25 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sylvère</h1>
-<h3 align="center">A passionate Backend developer from Madagascar 🇲🇬</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=andrianalisoa-sylvere&label=Profile%20views&color=0e75b6&style=flat" alt="andrianalisoa-sylvere" /> </p>
+<h3 align="center">Hi 👋, I'm Sylvère</h3>
 
-<h3 align="left">👨‍💻 About me</h3>
+<p align="center">
+Backend developer from Madagascar 🇲🇬 — focused on building reliable, secure, and scalable backend systems.
+</p>
 
-<p>I'm a backend developer passionate about crafting secure, scalable, and high-performance web applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andrianalisoa-sylvere&label=Profile%20views&color=0e75b6&style=flat" alt="andrianalisoa-sylvere" />
+</p>
 
-Currently specializing in <strong>NestJS</strong>,
+<h3>About</h3>
 
-I thrive on transforming complex business challenges into robust technical solutions.</p>
+<p>
+I design and build backend systems with a strong focus on architecture, performance, and production readiness.
+<br/>
+I enjoy turning complex business requirements into clean, maintainable, and observable systems.
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p>
+Currently working mainly with <strong>Node.js</strong> and <strong>NestJS</strong>, and exploring distributed systems, event-driven architectures, and DevOps practices.
+</p>
+
+<h3>Tech stack</h3>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,docker,graphql,grafana,githubactions,jenkins,kafka,kubernetes,prometheus,rabbitmq,terraform&theme=dark" alt="Skills" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sylverejosephin" target="blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="linkedin" /></a>
-<a href="https://www.linkedin.com/in/josephin-sylvere/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin" /></a>
-<a href="mailto:josephinsylvere@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="gmail" /></a>
+<h3>Connect</h3>
+
+<p>
+<a href="https://twitter.com/sylverejosephin" target="_blank">Twitter</a> ·
+<a href="https://www.linkedin.com/in/josephin-sylvere/" target="_blank">LinkedIn</a> ·
+<a href="mailto:josephinsylvere@gmail.com">Email</a>
 </p>
-
-
