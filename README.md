@@ -6,13 +6,13 @@
 
 <p>I'm a backend developer passionate about crafting secure, scalable, and high-performance web applications.
 
-Currently specializing in <strong>NestJS</strong> and <strong>GraphQL</strong>,
+Currently specializing in <strong>NestJS</strong>,
 
 I thrive on transforming complex business challenges into robust technical solutions.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mysql,mongodb,postgres,prisma,docker,graphql,blender&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,docker,graphql,grafana,githubactions,jenkins,kafka,kubernetes,prometheus,rabbitmq,terraform&theme=dark" alt="Skills" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
