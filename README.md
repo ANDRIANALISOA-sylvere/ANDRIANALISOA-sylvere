@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sylvère
+### Hi 👋, I'm Sylvère
 <p>
 Backend developer from Madagascar 🇲🇬 — focused on building reliable, secure, and scalable backend systems.
 </p>
@@ -22,8 +22,21 @@ Backend developer from Madagascar 🇲🇬 — focused on building reliable, sec
 
 > Currently working mainly with <strong>Node.js</strong> and <strong>NestJS</strong>, and exploring distributed systems, event-driven architectures, and DevOps practices.
 
+### 🚧 Current Projects
 
-# Connect
+> Backend-focused projects exploring system design, orchestration, observability, and AI-oriented tooling.
+
+- [**Toolsmith**](https://github.com/ANDRIANALISOA-sylvere/Toolsmith) — the backend toolbox engine  
+- [**MemoryGrid**](https://github.com/ANDRIANALISOA-sylvere/MemoryGrid) — memory infrastructure for agents & workflows  
+- [**FlowForge**](https://github.com/ANDRIANALISOA-sylvere/FlowForge) — workflow orchestration for backend systems  
+- [**RuleMind**](https://github.com/ANDRIANALISOA-sylvere/RuleMind) — rules & guardrails engine for system decisions  
+- [**TaskPilot**](https://github.com/ANDRIANALISOA-sylvere/TaskPilot) — distributed task scheduling and execution  
+- [**Flagify**](https://github.com/ANDRIANALISOA-sylvere/Flagify) — feature flags for backend systems  
+- [**PulseNotify**](https://github.com/ANDRIANALISOA-sylvere/PulseNotify) — event-driven notifications & alerts  
+- [**AuditFlow**](https://github.com/ANDRIANALISOA-sylvere/AuditFlow) — immutable audit logs for compliance
+
+
+### Connect
 
 <p>
   <a href="https://www.linkedin.com/in/josephin-sylvere/" target="_blank">
