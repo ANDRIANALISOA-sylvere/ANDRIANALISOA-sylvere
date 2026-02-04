@@ -28,8 +28,14 @@ Currently working mainly with <strong>Node.js</strong> and <strong>NestJS</stron
 
 <h3>Connect</h3>
 
-<p>
-<a href="https://twitter.com/sylverejosephin" target="_blank">Twitter</a> ·
-<a href="https://www.linkedin.com/in/josephin-sylvere/" target="_blank">LinkedIn</a> ·
-<a href="mailto:josephinsylvere@gmail.com">Email</a>
+<p align="left">
+  <a href="https://twitter.com/sylverejosephin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/josephin-sylvere/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="mailto:josephinsylvere@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+  </a>
 </p>
