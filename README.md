@@ -26,14 +26,14 @@ Backend developer from Madagascar 🇲🇬 — focused on building reliable, sec
 
 > Backend-focused projects exploring system design, orchestration, observability, and AI-oriented tooling.
 
-- [**Toolsmith**](https://github.com/ANDRIANALISOA-sylvere/Toolsmith) — the backend toolbox engine  
-- [**MemoryGrid**](https://github.com/ANDRIANALISOA-sylvere/MemoryGrid) — memory infrastructure for agents & workflows  
-- [**FlowForge**](https://github.com/ANDRIANALISOA-sylvere/FlowForge) — workflow orchestration for backend systems  
-- [**RuleMind**](https://github.com/ANDRIANALISOA-sylvere/RuleMind) — rules & guardrails engine for system decisions  
-- [**TaskPilot**](https://github.com/ANDRIANALISOA-sylvere/TaskPilot) — distributed task scheduling and execution  
-- [**Flagify**](https://github.com/ANDRIANALISOA-sylvere/Flagify) — feature flags for backend systems  
-- [**PulseNotify**](https://github.com/ANDRIANALISOA-sylvere/PulseNotify) — event-driven notifications & alerts  
-- [**AuditFlow**](https://github.com/ANDRIANALISOA-sylvere/AuditFlow) — immutable audit logs for compliance
+- [**Toolsmith**](https://github.com/ANDRIANALISOA-sylvere/Toolsmith) — the backend toolbox engine  *(WIP)*
+- [**MemoryGrid**](https://github.com/ANDRIANALISOA-sylvere/MemoryGrid) — memory infrastructure for agents & workflows  *(WIP)*
+- [**FlowForge**](https://github.com/ANDRIANALISOA-sylvere/FlowForge) — workflow orchestration for backend systems  *(WIP)*
+- [**RuleMind**](https://github.com/ANDRIANALISOA-sylvere/RuleMind) — rules & guardrails engine for system decisions  *(WIP)*
+- [**TaskPilot**](https://github.com/ANDRIANALISOA-sylvere/TaskPilot) — distributed task scheduling and execution  *(WIP)*
+- [**Flagify**](https://github.com/ANDRIANALISOA-sylvere/Flagify) — feature flags for backend systems  *(WIP)*
+- [**PulseNotify**](https://github.com/ANDRIANALISOA-sylvere/PulseNotify) — event-driven notifications & alerts  *(WIP)*
+- [**AuditFlow**](https://github.com/ANDRIANALISOA-sylvere/AuditFlow) — immutable audit logs for compliance *(WIP)*
 
 
 ### Connect
