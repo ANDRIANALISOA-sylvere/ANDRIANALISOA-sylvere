@@ -1,10 +1,10 @@
-<h3 align="center">Hi 👋, I'm Sylvère</h3>
+<h3>Hi 👋, I'm Sylvère</h3>
 
-<p align="center">
+<p>
 Backend developer from Madagascar 🇲🇬 — focused on building reliable, secure, and scalable backend systems.
 </p>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=andrianalisoa-sylvere&label=Profile%20views&color=0e75b6&style=flat" alt="andrianalisoa-sylvere" />
 </p>
 
