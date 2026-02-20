@@ -1,3 +1,5 @@
+![Texte alternatif](https://github.com/ANDRIANALISOA-sylvere/ANDRIANALISOA-sylvere/blob/main/Capture%20d'%C3%A9cran%202026-02-21%20011724.png)
+
 ### Hi 👋, I'm Sylvère
 <p>
 Backend developer from Madagascar 🇲🇬 — focused on building reliable, secure, and scalable backend systems.
