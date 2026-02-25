@@ -28,6 +28,7 @@ Backend developer from Madagascar 🇲🇬 — focused on building reliable, sec
 
 > Backend-focused projects exploring system design, orchestration, observability, and AI-oriented tooling.
 
+- [**AuditStream**](https://github.com/ANDRIANALISOA-sylvere/AuditStream) — Real-time financial transaction auditing  *(WIP)*
 - [**Toolsmith**](https://github.com/ANDRIANALISOA-sylvere/Toolsmith) — the backend toolbox engine  *(WIP)*
 - [**MemoryGrid**](https://github.com/ANDRIANALISOA-sylvere/MemoryGrid) — memory infrastructure for agents & workflows  *(WIP)*
 - [**FlowForge**](https://github.com/ANDRIANALISOA-sylvere/FlowForge) — workflow orchestration for backend systems  *(WIP)*
