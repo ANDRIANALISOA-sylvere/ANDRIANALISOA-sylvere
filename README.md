@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Sylvère
 <p>
-Backend developer from Madagascar 🇲🇬 — focused on building reliable, secure, and scalable backend systems.
+Backend developer , focused on building reliable, secure, and scalable backend systems.
 </p>
 
 <p>
