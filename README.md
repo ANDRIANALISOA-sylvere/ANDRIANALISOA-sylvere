@@ -1,4 +1,4 @@
-![Texte alternatif](https://github.com/ANDRIANALISOA-sylvere/ANDRIANALISOA-sylvere/blob/main/Capture%20d'%C3%A9cran%202026-02-21%20011724.png)
+![Texte alternatif](https://github.com/ANDRIANALISOA-sylvere/ANDRIANALISOA-sylvere/blob/main/background.png)
 
 ### Hi 👋, I'm Sylvère
 <p>
