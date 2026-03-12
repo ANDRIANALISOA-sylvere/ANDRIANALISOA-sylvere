@@ -26,7 +26,7 @@ Backend developer , focused on building reliable, secure, and scalable backend s
 
 ### 🚧 Current Projects
 
-> Backend-focused projects exploring system design, orchestration, observability, and AI-oriented tooling.
+> Backend-focused projects exploring system design, orchestration, observability.
 
 - [**RideSync**](https://github.com/ANDRIANALISOA-sylvere/RideSync) - Real-time ride dispatch system — microservices, event-driven architecture, CQRS, WebSockets, Redis Geosearch & RabbitMQ with NestJS *(WIP)*
 - [**AuditStream**](https://github.com/ANDRIANALISOA-sylvere/AuditStream) — Real-time financial transaction auditing  *(WIP)*
