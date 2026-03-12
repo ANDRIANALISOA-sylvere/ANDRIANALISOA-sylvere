@@ -30,7 +30,7 @@ Backend developer , focused on building reliable, secure, and scalable backend s
 
 - [**RideSync**](https://github.com/ANDRIANALISOA-sylvere/RideSync) - Real-time ride dispatch system — microservices, event-driven architecture, CQRS, WebSockets, Redis Geosearch & RabbitMQ with NestJS *(WIP)*
 - [**AuditStream**](https://github.com/ANDRIANALISOA-sylvere/AuditStream) — Real-time financial transaction auditing  *(WIP)*
-- [**Toolsmith**](https://github.com/ANDRIANALISOA-sylvere/Toolsmith) — the backend toolbox engine  *(WIP)*
+- [**Toolsmith**](https://github.com/ANDRIANALISOA-sylvere/Toolsmith) — Backend toolbox engine to centralize, execute and audit internal developer tools : scripts, webhooks, cron jobs and admin panels.  *(WIP)*
 - [**MemoryGrid**](https://github.com/ANDRIANALISOA-sylvere/MemoryGrid) — memory infrastructure for agents & workflows  *(WIP)*
 - [**FlowForge**](https://github.com/ANDRIANALISOA-sylvere/FlowForge) — workflow orchestration for backend systems  *(WIP)*
 - [**RuleMind**](https://github.com/ANDRIANALISOA-sylvere/RuleMind) — rules & guardrails engine for system decisions  *(WIP)*
