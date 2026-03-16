@@ -28,10 +28,10 @@ Backend developer , focused on building reliable, secure, and scalable backend s
 
 > Backend-focused projects exploring system design, orchestration, observability.
 
-- [**RideSync**](https://github.com/ANDRIANALISOA-sylvere/RideSync)  —  Real-time ride dispatch system — microservices, event-driven architecture, CQRS, WebSockets, Redis Geosearch & RabbitMQ with NestJS *(WIP)*
-- [**AuditStream**](https://github.com/ANDRIANALISOA-sylvere/AuditStream) — Real-time financial transaction auditing  *(WIP)*
-- [**Toolsmith**](https://github.com/ANDRIANALISOA-sylvere/Toolsmith) — Backend toolbox engine to centralize, execute and audit internal developer tools : scripts, webhooks *(WIP)*
 - [**MailPulse**](https://github.com/ANDRIANALISOA-sylvere/MailPulse)  — Reliable email delivery infrastructure : send, track, and retry transactional emails at scale *(WIP)*
+- [**RideSync**](https://github.com/ANDRIANALISOA-sylvere/RideSync)  —  Real-time ride dispatch system — microservices, event-driven architecture, CQRS, WebSockets, Redis Geosearch & RabbitMQ with NestJS *(WIP)*
+- [**Toolsmith**](https://github.com/ANDRIANALISOA-sylvere/Toolsmith) — Backend toolbox engine to centralize, execute and audit internal developer tools : scripts, webhooks *(WIP)*
+- [**AuditStream**](https://github.com/ANDRIANALISOA-sylvere/AuditStream) — Real-time financial transaction auditing  *(WIP)*
 
 
 ### Connect
