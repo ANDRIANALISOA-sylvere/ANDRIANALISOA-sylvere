@@ -28,6 +28,7 @@ Backend developer , focused on building reliable, secure, and scalable backend s
 
 > Backend-focused projects exploring system design, orchestration, observability.
 
+- [**GitGlobe**](https://github.com/ANDRIANALISOA-sylvere/GitGlobe)  — An interactive 3D globe visualizing GitHub activity by country, built with Next.js & Three.js.
 - [**LockCLI**](https://github.com/ANDRIANALISOA-sylvere/LockCLI)  — A secure CLI password manager : store, retrieve and manage your credentials locally from your terminal.
 - [**MailPulse**](https://github.com/ANDRIANALISOA-sylvere/MailPulse)  — Reliable email delivery infrastructure : send, track, and retry transactional emails at scale *(WIP)*
 - [**RideSync**](https://github.com/ANDRIANALISOA-sylvere/RideSync)  —  Real-time ride dispatch system — microservices, event-driven architecture, CQRS, WebSockets, Redis Geosearch & RabbitMQ with NestJS *(WIP)*
