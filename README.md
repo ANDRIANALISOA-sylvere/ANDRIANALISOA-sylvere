@@ -34,6 +34,7 @@ Backend developer , focused on building reliable, secure, and scalable backend s
 - [**RideSync**](https://github.com/ANDRIANALISOA-sylvere/RideSync)  —  Real-time ride dispatch system — microservices, event-driven architecture, CQRS, WebSockets, Redis Geosearch & RabbitMQ with NestJS *(WIP)*
 - [**Toolsmith**](https://github.com/ANDRIANALISOA-sylvere/Toolsmith) — Backend toolbox engine to centralize, execute and audit internal developer tools : scripts, webhooks *(WIP)*
 - [**AuditStream**](https://github.com/ANDRIANALISOA-sylvere/AuditStream) — Real-time financial transaction auditing  *(WIP)*
+- [**LokaAuto**](https://github.com/ANDRIANALISOA-sylvere/LokaAuto) — Car rental mobile app  *(WIP)*
 
 
 ### Connect
