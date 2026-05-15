@@ -1,5 +1,3 @@
-![Texte alternatif](https://github.com/ANDRIANALISOA-sylvere/ANDRIANALISOA-sylvere/blob/main/background.png)
-
 ### Hi 👋, I'm Sylvère
 <p>
 Backend developer | Data Analyst , focused on building reliable, secure, and scalable backend systems.
