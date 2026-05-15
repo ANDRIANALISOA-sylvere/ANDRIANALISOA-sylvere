@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Sylvère
 <p>
-Backend developer , focused on building reliable, secure, and scalable backend systems.
+Backend developer | Data Analyst , focused on building reliable, secure, and scalable backend systems.
 </p>
 
 <p>
@@ -17,7 +17,9 @@ Backend developer , focused on building reliable, secure, and scalable backend s
   <img src="https://img.shields.io/badge/Docker-323330?style=flat&logo=docker" />
   <img src="https://img.shields.io/badge/GraphQL-323330?style=flat&logo=graphql" />
   <img src="https://img.shields.io/badge/Kafka-323330?style=flat&logo=apachekafka" />
-  <img src="https://img.shields.io/badge/Kubernetes-323330?style=flat&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 </p>
 
 > I design and build backend systems with a strong focus on architecture, performance, and production readiness. I enjoy turning complex business requirements into clean, maintainable, and observable systems.
